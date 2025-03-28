@@ -7,4 +7,4 @@
 ![Dani-Macedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dani-Macedo&show_icons=true&theme=dark)
 
 ✔ ** Linguagens utilizadas **
-![Linguagens utilizadas](https://github-readme-stats.vercel.app/api/Linguagens utilizadas/?username=Dani-Macedo&layout=compact&theme=dark)
+

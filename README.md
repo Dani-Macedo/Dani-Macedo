@@ -3,4 +3,5 @@
 - 🌱 Atualmente sou estudante de graduação em Gestão de Tecnologia da Informação
 - Apaixonada por desafios e desenvolvimento pessoal.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDani-Macedoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 

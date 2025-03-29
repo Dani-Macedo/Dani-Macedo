@@ -4,8 +4,10 @@
 - Apaixonada por desafios e desenvolvimento pessoal.
 
 ✨ ** Estatisticas no GitHub **
+
 ![Dani-Macedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dani-Macedo&show_icons=true&theme=dark)
 
 ✔ ** Linguagens utilizadas **
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Macedo&layout=compact&theme=dark)
 

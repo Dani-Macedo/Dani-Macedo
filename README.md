@@ -12,3 +12,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Macedo&layout=compact&theme=dark)
 
+🔗 ** Meus Links pessoais **
+
+www.linkedin.com/in/daniele-cm-572314350
+
+https://www.dio.me/users/danielecm
+

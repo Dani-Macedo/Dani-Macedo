@@ -14,7 +14,7 @@
 
 🔗 ** Meus Links pessoais **
 
-www.linkedin.com/in/daniele-cm-572314350
+www.linkedin.com/in/daniele-c-macedo-572314350
 
 https://www.dio.me/users/danielecm
 
